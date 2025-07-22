@@ -17,3 +17,4 @@ Run it like this:
 ```
 IMMICH_API_KEY=<API KEY> IMMICH_API_URL=http://immich.example.ca/api go run main.go
 ```
+I also just noticed https://github.com/joshhsoj1902/immich-timestamp-fix/blob/main/main.go#L45, Early on I used this (and the commented out code block a few lines down) to let me confirm the update worked for just a single item. Feel free to use this is it's useful.
